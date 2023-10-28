@@ -9,7 +9,7 @@ function EyesOnMe() {
     }
 
     function handleBlur() {
-        confirm.log('Hey! Eyes on me!')
+        console.log('Hey! Eyes on me!')
     }
   return (
     <div>
